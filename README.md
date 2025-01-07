@@ -77,12 +77,12 @@ Restaurant QR Code Generator is a Django-based web application designed to strea
    - Log in to the Django admin panel at `http://127.0.0.1:8000/admin/` using the superuser credentials.
    - Add or manage menu items under the "Menu" section. -->
 
-2. **QR Code Generation:**
+1. **QR Code Generation:**
    - Add the Restaurant Name and URL of the Menu in the form.
    - After that, you will be redirected to QR Code Page where you will be able to see the QR Code Generated for that Menu.
    - Download and print the QR codes for placement in the restaurant.
 
-3. **Customer Access:**
+2. **Customer Access:**
 
    - Customers scan the QR codes using their smartphones to access the digital menu.
    - The menu is displayed in a user-friendly format, allowing customers to browse items effortlessly.
